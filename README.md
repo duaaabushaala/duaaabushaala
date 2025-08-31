@@ -1,21 +1,34 @@
-<h1>Hi, I'm Duaa! <br/></h1>
+# Hi, I'm Duaa! 👋
 
-<h2>👨‍💻 Software Development Projects:</h2>
-- <a href="https://github.com/duaa-abushaala/MindGlowMobileApp">Mind Glow Health App</a><br>
-- <a href="https://github.com/duaa-abushaala/Conversational-Simulator">Conversational Simulator: An Educational Mobile App</a><br>
+## 💻 Computer Science Graduate | Masters Student in AI | Technology Enthusiast  
 
+---
 
-<h2>👨‍💻 Mini Projects:</h2>
-- <a href="https://github.com/duaa-abushaala/snake-game">Snake Game</a> <br>
-- <a href="https://github.com/duaa-abushaala/hang-man">Hang Man</a> <br>
-- <a href = "https://github.com/duaa-abushaala/Calculator">Calculator</a> <br>
-- <a href = "https://github.com/duaa-abushaala/pingpong">Ping Pong</a> <br>
+## 👨‍💻 Software Development Projects
+- [Mind Glow Health App](https://github.com/duaa-abushaala/MindGlowMobileApp)
+- [Conversational Simulator: An Educational Mobile App](https://github.com/duaa-abushaala/Conversational-Simulator)
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 👩‍💻 Mini Projects
+- [Snake Game](https://github.com/duaa-abushaala/snake-game)
+- [Hang Man](https://github.com/duaa-abushaala/hang-man)
+- [Calculator](https://github.com/duaa-abushaala/Calculator)
+- [Ping Pong](https://github.com/duaa-abushaala/pingpong)
 
+---
 
-[instagram]: https://www.instagram.com/duaa_abushaala/
-[linkedin]: https://linkedin.com/in/duaa-abushaala
+### 🔭 Currently working on
+AI-powered chat apps  
+
+### 🌱 Learning
+React Native, Cloud Computing  
+
+### 📫 Reach me at
+**duaa.abushaala@outlook.com**
+
+---
+
+## 🤳 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duaa-abushaala)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duaa_abushaala/)
