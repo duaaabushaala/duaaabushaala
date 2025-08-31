@@ -19,7 +19,7 @@
 ---
 
 ### 🔭 Currently working on
-AI-powered chat apps  
+Multilingual Chatbot App
 
 ### 🌱 Learning
 React Native, Cloud Computing  
